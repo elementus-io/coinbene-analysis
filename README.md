@@ -1,7 +1,6 @@
-# coinbene-analysis
-CoinBene transfers on the Ethereum blockchain
+# The CoinBene Situation 
 
-Data for [https://elementus.io/blog/coinbene-analysis/](https://elementus.io/blog/coinbene-analysis/)
+Data for: [The CoinBene situation: $105m in ETH + tokens on the move](https://elementus.io/blog/coinbene-analysis/)
 
 The full list of transactions used in the analysis are available here: [coinbene-transfers.csv](https://github.com/elementus-io/coinbene-analysis/blob/master/coinbene-transfers.csv)
 
