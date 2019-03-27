@@ -19,7 +19,6 @@ The full list of transactions used in the analysis are available here: [coinbene
   </tr>
   </thead>
   <tbody>
-<tr ><td>ETH</td><td>$3,570,124</td></tr>
 <tr><td>Maximine</td><td>$70,738,770</td></tr>
 <tr><td>CoinBene Coin</td><td>$14,252,973</td></tr>
 <tr><td>Guaranteed Ethurance Token Extra</td><td>$4,744,863</td></tr>
